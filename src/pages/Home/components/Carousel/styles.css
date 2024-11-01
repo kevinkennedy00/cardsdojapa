@@ -1,0 +1,7 @@
+.slick-list {
+  padding: 40px 60px !important;
+}
+.slick-current {
+  transform: scale(1.1) !important;
+  transition: all 0.4s ease-in-out;
+}
